@@ -1,0 +1,13 @@
+﻿Corpus inventory,Count,Meaning,Action
+Total URL entries,57,"All user-supplied entries, including duplicates",
+P1 — Core,19,"Library-managed DH services, guides and library-affiliated centers",Main analysis
+P2 — Contextual,27,University/department DH messaging and context,Comparative analysis
+P3 — Supplemental,11,"Courses, news, projects, third-party or out-of-sample pages",Use selectively
+Duplicate entries,1,Same normalized URL,Keep only one capture
+Different institution,2,UNO entries within UNL list,Exclude from UNL case
+Verification,,Only limited spot checks completed; not a live audit of all URLs,"Confirm redirects, content, ownership and access"
+,,,
+Research caveat,,,
+"Priority is a proposed sampling tier, NOT proof of webpage accessibility or organizational control. Confirm P1 status for mixed-governance centers before final coding.",,,
+,,,
+Spot-check evidence: https://library.stanford.edu/digital-humanities ; https://guides.lib.uw.edu/research ; https://libguides.unomaha.edu/,,,
